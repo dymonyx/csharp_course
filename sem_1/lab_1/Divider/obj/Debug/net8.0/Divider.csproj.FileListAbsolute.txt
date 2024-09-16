@@ -1,0 +1,14 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/bin/Debug/net8.0/Divider
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/bin/Debug/net8.0/Divider.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/bin/Debug/net8.0/Divider.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/bin/Debug/net8.0/Divider.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/bin/Debug/net8.0/Divider.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/refint/Divider.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/ref/Divider.dll

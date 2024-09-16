@@ -1,0 +1,14 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/bin/Debug/net8.0/SquareTriangle
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/bin/Debug/net8.0/SquareTriangle.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/bin/Debug/net8.0/SquareTriangle.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/bin/Debug/net8.0/SquareTriangle.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/bin/Debug/net8.0/SquareTriangle.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/refint/SquareTriangle.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/SquareTriangle.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/SquareTriangle/obj/Debug/net8.0/ref/SquareTriangle.dll

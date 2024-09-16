@@ -1,0 +1,14 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/bin/Debug/net8.0/BankAccount
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/bin/Debug/net8.0/BankAccount.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/bin/Debug/net8.0/BankAccount.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/bin/Debug/net8.0/BankAccount.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/bin/Debug/net8.0/BankAccount.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/refint/BankAccount.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/BankAccount.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/BankAccount/BankAccount/obj/Debug/net8.0/ref/BankAccount.dll

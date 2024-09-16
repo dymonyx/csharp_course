@@ -1,0 +1,14 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/bin/Debug/net8.0/StructType
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/bin/Debug/net8.0/StructType.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/bin/Debug/net8.0/StructType.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/bin/Debug/net8.0/StructType.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/bin/Debug/net8.0/StructType.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/refint/StructType.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/ref/StructType.dll
