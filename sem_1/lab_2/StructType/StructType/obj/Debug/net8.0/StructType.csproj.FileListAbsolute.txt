@@ -12,3 +12,4 @@
 /home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.pdb
 /home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.genruntimeconfig.cache
 /home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/ref/StructType.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_2/StructType/StructType/obj/Debug/net8.0/StructType.sourcelink.json
