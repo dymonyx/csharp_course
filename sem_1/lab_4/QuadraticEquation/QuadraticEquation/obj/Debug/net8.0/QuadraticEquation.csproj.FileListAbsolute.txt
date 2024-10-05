@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/bin/Debug/net8.0/QuadraticEquation
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/bin/Debug/net8.0/QuadraticEquation.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/bin/Debug/net8.0/QuadraticEquation.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/bin/Debug/net8.0/QuadraticEquation.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/bin/Debug/net8.0/QuadraticEquation.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/refint/QuadraticEquation.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/QuadraticEquation.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_4/QuadraticEquation/QuadraticEquation/obj/Debug/net8.0/ref/QuadraticEquation.dll

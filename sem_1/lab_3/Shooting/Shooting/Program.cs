@@ -18,9 +18,9 @@ class Program
             double y = Convert.ToDouble(Console.ReadLine());
             double real_x = x - x_center + x_obstacle;
             double real_y = y - y_center - y_obstacle;
-            if (real_x*real_x + real_y*real_y <= 1.00) total_score += 10;
-            else if (real_x*real_x + real_y*real_y <= 2.00) total_score += 5;
-            else if (real_x*real_x + real_y*real_y <= 3.00) total_score += 1;
+            if (real_x * real_x + real_y * real_y <= 1.00) total_score += 10;
+            else if (real_x * real_x + real_y * real_y <= 2.00) total_score += 5;
+            else if (real_x * real_x + real_y * real_y <= 3.00) total_score += 1;
             Console.WriteLine("Score is " + total_score);
             attempt += 1;
         }
