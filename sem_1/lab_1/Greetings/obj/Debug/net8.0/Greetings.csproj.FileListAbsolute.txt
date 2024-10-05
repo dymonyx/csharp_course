@@ -12,3 +12,4 @@
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Greetings/obj/Debug/net8.0/Greetings.pdb
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Greetings/obj/Debug/net8.0/Greetings.genruntimeconfig.cache
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Greetings/obj/Debug/net8.0/ref/Greetings.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Greetings/obj/Debug/net8.0/Greetings.sourcelink.json

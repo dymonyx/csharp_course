@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/bin/Debug/net8.0/Calc_switch
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/bin/Debug/net8.0/Calc_switch.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/bin/Debug/net8.0/Calc_switch.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/bin/Debug/net8.0/Calc_switch.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/bin/Debug/net8.0/Calc_switch.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/refint/Calc_switch.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/Calc_switch.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Calc_switch/Calc_switch/obj/Debug/net8.0/ref/Calc_switch.dll

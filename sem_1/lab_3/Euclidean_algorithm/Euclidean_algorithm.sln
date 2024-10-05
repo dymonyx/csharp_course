@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclidean_algorithm", "Euclidean_algorithm\Euclidean_algorithm.csproj", "{6C7FACD7-C494-4612-889C-F18C0FA33E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclidean_algorithm2", "Euclidean_algorithm2\Euclidean_algorithm2.csproj", "{BCA05DF3-1E12-4B65-8C61-40F89CC36D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7FACD7-C494-4612-889C-F18C0FA33E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7FACD7-C494-4612-889C-F18C0FA33E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7FACD7-C494-4612-889C-F18C0FA33E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7FACD7-C494-4612-889C-F18C0FA33E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA05DF3-1E12-4B65-8C61-40F89CC36D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA05DF3-1E12-4B65-8C61-40F89CC36D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA05DF3-1E12-4B65-8C61-40F89CC36D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA05DF3-1E12-4B65-8C61-40F89CC36D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

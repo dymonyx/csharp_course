@@ -12,3 +12,4 @@
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/task1/obj/Debug/net8.0/task1.pdb
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/task1/obj/Debug/net8.0/task1.genruntimeconfig.cache
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/task1/obj/Debug/net8.0/ref/task1.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/task1/obj/Debug/net8.0/task1.sourcelink.json

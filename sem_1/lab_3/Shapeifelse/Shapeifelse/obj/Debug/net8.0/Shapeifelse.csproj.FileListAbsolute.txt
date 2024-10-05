@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/bin/Debug/net8.0/Shapeifelse
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/bin/Debug/net8.0/Shapeifelse.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/bin/Debug/net8.0/Shapeifelse.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/bin/Debug/net8.0/Shapeifelse.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/bin/Debug/net8.0/Shapeifelse.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/refint/Shapeifelse.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/Shapeifelse.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Shapeifelse/Shapeifelse/obj/Debug/net8.0/ref/Shapeifelse.dll

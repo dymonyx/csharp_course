@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Euclidean_algorithm/1.0.0": {
+        "runtime": {
+          "Euclidean_algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euclidean_algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -12,3 +12,4 @@
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.pdb
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.genruntimeconfig.cache
 /home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/ref/Divider.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_1/Divider/obj/Debug/net8.0/Divider.sourcelink.json

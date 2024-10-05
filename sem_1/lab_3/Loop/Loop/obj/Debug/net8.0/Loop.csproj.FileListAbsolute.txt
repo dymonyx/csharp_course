@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/bin/Debug/net8.0/Loop
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/bin/Debug/net8.0/Loop.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/bin/Debug/net8.0/Loop.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/bin/Debug/net8.0/Loop.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/bin/Debug/net8.0/Loop.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/refint/Loop.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/Loop.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_3/Loop/Loop/obj/Debug/net8.0/ref/Loop.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70997b09ea39f6b592c111d2ed120a9e85408646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be4dba923b7f5aa8d55e09a30db39b1c6f46a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructDistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

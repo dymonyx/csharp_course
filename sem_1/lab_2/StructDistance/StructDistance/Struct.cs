@@ -4,7 +4,7 @@ public struct Distance
 {
     public int ft;
     public int inch;
-    // перегрузка оператора для сложения сложения
+    // перегрузка оператора для сложения
     public static Distance operator +(Distance d1, Distance d2)
     {
         Distance result;
