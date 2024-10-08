@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shapeifelse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be4dba923b7f5aa8d55e09a30db39b1c6f46a48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bcfa18c1e8a98e763188e7b0b4b46603d6fa35f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shapeifelse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shapeifelse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

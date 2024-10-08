@@ -9,9 +9,9 @@ class Program
         Console.Write("y=");
         float y = float.Parse(Console.ReadLine());
         if (x * x + y * y < 9 && y > 0)
-        Console.WriteLine("inside");
+            Console.WriteLine("inside");
         else if (x * x + y * y > 9 || y < 0)
-        Console.WriteLine("outside");
+            Console.WriteLine("outside");
         else Console.WriteLine("on the line");
     }
 }

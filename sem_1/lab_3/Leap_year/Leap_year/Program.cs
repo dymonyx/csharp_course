@@ -4,7 +4,7 @@ class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Enter the year: ");
+        Console.Write("Enter the year: ");
         int number = Convert.ToInt32(Console.ReadLine());
         bool flag = false;
         string msg = "";

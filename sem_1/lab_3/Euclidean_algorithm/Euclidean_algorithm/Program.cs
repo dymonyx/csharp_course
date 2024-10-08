@@ -12,7 +12,7 @@ class Program
         while (temp != b)
         {
             a = temp;
-            if (a<b)
+            if (a < b)
             {
                 temp = a;
                 a = b;

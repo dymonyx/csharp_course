@@ -12,11 +12,11 @@ class Program
         do
         {
             a = temp;
-            if (a==b)
+            if (a == b)
             {
                 break;
             }
-            else if (a<b)
+            else if (a < b)
             {
                 temp = a;
                 a = b;
@@ -25,7 +25,7 @@ class Program
             temp = a - b;
             a = b;
         }
-        while (temp!=b);
+        while (temp != b);
         Console.WriteLine("GCD is " + a);
     }
 }
