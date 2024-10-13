@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/agonek/.vscode/csharp_course/sem_1/lab_4/Utils/Utils/Utils.csproj": {}
+    "/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop/Loop/Loop.csproj": {}
   },
   "projects": {
-    "/home/agonek/.vscode/csharp_course/sem_1/lab_4/Utils/Utils/Utils.csproj": {
+    "/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop/Loop/Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/agonek/.vscode/csharp_course/sem_1/lab_4/Utils/Utils/Utils.csproj",
-        "projectName": "Utils",
-        "projectPath": "/home/agonek/.vscode/csharp_course/sem_1/lab_4/Utils/Utils/Utils.csproj",
+        "projectUniqueName": "/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop/Loop/Loop.csproj",
+        "projectName": "Loop",
+        "projectPath": "/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop/Loop/Loop.csproj",
         "packagesPath": "/home/agonek/.nuget/packages/",
-        "outputPath": "/home/agonek/.vscode/csharp_course/sem_1/lab_4/Utils/Utils/obj/",
+        "outputPath": "/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop/Loop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/agonek/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/bin/Debug/net8.0/Loop_update
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/bin/Debug/net8.0/Loop_update.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/bin/Debug/net8.0/Loop_update.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/bin/Debug/net8.0/Loop_update.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/bin/Debug/net8.0/Loop_update.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/refint/Loop_update.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/Loop_update.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/Loop_update/Loop_update/obj/Debug/net8.0/ref/Loop_update.dll

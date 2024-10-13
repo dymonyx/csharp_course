@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/bin/Debug/net8.0/MatrixMultiply
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/bin/Debug/net8.0/MatrixMultiply.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/bin/Debug/net8.0/MatrixMultiply.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/bin/Debug/net8.0/MatrixMultiply.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/bin/Debug/net8.0/MatrixMultiply.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/refint/MatrixMultiply.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/MatrixMultiply.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_5/MatrixMultiply/MatrixMultiply/obj/Debug/net8.0/ref/MatrixMultiply.dll
