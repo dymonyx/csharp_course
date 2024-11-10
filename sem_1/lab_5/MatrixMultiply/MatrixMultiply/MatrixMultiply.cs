@@ -32,7 +32,7 @@ class MatrixMultiply
         {
             for (int c = 0; c < result.GetLength(1); c++)
             {
-                result[r,c] = a[r,0] * b[0,c] + a[r,1] * b[1,c];
+                result[r, c] = a[r, 0] * b[0, c] + a[r, 1] * b[1, c];
             }
         }
         return result;

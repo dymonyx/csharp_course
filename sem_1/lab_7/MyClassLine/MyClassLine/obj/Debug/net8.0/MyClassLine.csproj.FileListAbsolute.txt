@@ -1,0 +1,15 @@
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.GeneratedMSBuildEditorConfig.editorconfig
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.AssemblyInfoInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.AssemblyInfo.cs
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.csproj.CoreCompileInputs.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.sourcelink.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/bin/Debug/net8.0/MyClassLine
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/bin/Debug/net8.0/MyClassLine.deps.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/bin/Debug/net8.0/MyClassLine.runtimeconfig.json
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/bin/Debug/net8.0/MyClassLine.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/bin/Debug/net8.0/MyClassLine.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/refint/MyClassLine.dll
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.pdb
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/MyClassLine.genruntimeconfig.cache
+/home/agonek/.vscode/csharp_course/sem_1/lab_7/MyClassLine/MyClassLine/obj/Debug/net8.0/ref/MyClassLine.dll
