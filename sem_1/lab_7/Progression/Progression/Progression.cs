@@ -1,10 +1,10 @@
-﻿abstract class Progression
+﻿interface IProgression
 {
-    public abstract int GetElement(int k);
+    int GetElement(int k);
 
 }
 
-class ArithmeticProgression : Progression
+class ArithmeticProgression : IProgression
 {
     int d;
     int a1;
@@ -15,17 +15,16 @@ class ArithmeticProgression : Progression
     }
     public ArithmeticProgression()
     { }
-    public override int GetElement(int k)
+    public int GetElement(int k)
     {
         return a1 + (k - 1) * d;
     }
 }
 
-class GeometricProgression : Progression
+class GeometricProgression : IProgression
 {
     int q;
     int b1;
-    static int res = 1;
 
     public GeometricProgression(int q, int b1)
     {
@@ -35,8 +34,9 @@ class GeometricProgression : Progression
     public GeometricProgression()
     { }
 
-    public override int GetElement(int k)
+    public int GetElement(int k)
     {
+        int res = 1;
         for (int i = 0; i < k - 1; i++)
         {
             res *= q;
