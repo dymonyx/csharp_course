@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Igra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+534c25b3cf7e2e6db40a792de0cdbda807c1bc25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5faf792ad521e2acee268d97ea756a31991dbeb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Igra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Igra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
