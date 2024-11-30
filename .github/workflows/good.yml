@@ -23,7 +23,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-24.04, windows-2022]
-        dotnet: ${{ env.DOTNET_VERSION }}
+        dotnet: $DOTNET_VERSION
 
     steps:
     - name: Checkout code
@@ -32,7 +32,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@6bd8b7f7774af54e05809fcc5431931b3eb1ddee
       with:
-        dotnet-version: ${{ env.DOTNET_VERSION }}
+        dotnet-version: $DOTNET_VERSION
 
     - name: Restore dependencies
       run: dotnet restore
@@ -55,7 +55,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@6bd8b7f7774af54e05809fcc5431931b3eb1ddee
       with:
-        dotnet-version: ${{ env.DOTNET_VERSION }}
+        dotnet-version: $DOTNET_VERSION
 
     - name: Publish
       run: dotnet publish -c Release -o output
