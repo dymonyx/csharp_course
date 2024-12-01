@@ -121,7 +121,7 @@ class Book : Item
     }
 
 
-    public override void Return() // операция "вернуть"
+    public override void Return() // операция "вернуть" item
     {
         if (ReturnSrok == true)
             taken = true;
