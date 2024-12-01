@@ -57,6 +57,6 @@ jobs:
         dotnet-version: ${{ vars.DOTNET_VERSION }}
 
     - name: Publish
-      run: dotnet publish -c Release -o output
+      run: dotnet publish sem_1/test/testapp/testapp.csproj -c Release -o output 
         
 
