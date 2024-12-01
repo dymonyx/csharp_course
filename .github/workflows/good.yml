@@ -40,7 +40,7 @@ jobs:
       run: dotnet build --no-restore sem_1/test
 
     - name: Run static analysis
-      run: dotnet format --check sem_1/test/testapp/test.csproj
+      run: dotnet format sem_1/test/testapp/test.csproj analyzers
 
   deploy:
     needs: build
