@@ -34,13 +34,13 @@ jobs:
         dotnet-version: ${{ vars.DOTNET_VERSION }}
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore sem_1/test
 
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build --no-restore sem_1/test
 
     - name: Run static analysis
-      run: dotnet format --check
+      run: dotnet format --check sem_1/test
 
   deploy:
     needs: build
