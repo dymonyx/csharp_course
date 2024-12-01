@@ -12,9 +12,6 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-env:
-  DOTNET_VERSION: '8.0.x'
-
 jobs:
   build:
     timeout-minutes: 20
