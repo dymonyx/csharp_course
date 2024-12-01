@@ -187,7 +187,7 @@ class Magazine : Item
     public Magazine()
     { }
 
-    public override void Return() // операция "вернуть"
+    public override void Return() // операция "вернуть" item
     {
         taken = true;
     }
