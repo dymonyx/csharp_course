@@ -46,6 +46,9 @@ jobs:
 
     - name: Run static analysis
       run: dotnet format sem_1/test/testapp/testapp.csproj analyzers
+
+    - name: Publish
+      run: dotnet publish sem_1/test/testapp/testapp.csproj -c Release -o output 
       
     - name: Upload build artifacts
       uses: actions/upload-artifact@b4b15b8c7c6ac21ea08fcf65892d2ee8f75cf882
@@ -72,7 +75,7 @@ jobs:
       with:
         dotnet-version: ${{ vars.DOTNET_VERSION }}
 
-    - name: Publish
-      run: dotnet publish sem_1/test/testapp/testapp.csproj -c Release -o output 
+    - name: Deploy application
+      run: echo "deploy was successful"
         
 
