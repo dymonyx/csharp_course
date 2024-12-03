@@ -53,7 +53,7 @@ jobs:
     - name: Upload build artifacts
       uses: actions/upload-artifact@b4b15b8c7c6ac21ea08fcf65892d2ee8f75cf882
       with:
-        name: build-output
+        name: build-output-${{ github.run_id }}
         path: output/
 
   deploy:
@@ -68,7 +68,7 @@ jobs:
     - name: Download build artifacts
       uses: actions/download-artifact@fa0a91b85d4f404e444e00e005971372dc801d16
       with:
-        name: build-output
+        name: build-output-${{ github.run_id }}
 
     - name: Setup .NET
       uses: actions/setup-dotnet@6bd8b7f7774af54e05809fcc5431931b3eb1ddee
