@@ -33,9 +33,7 @@ jobs:
     - name: Cache .NET dependencies
       uses: actions/cache@6849a6489940f00c2f30c0fb92c6274307ccb58a
       with:
-        path: |
-          ${{ if eq(matrix.os, 'windows-2022') }}${{ env.USERPROFILE }}\.nuget\packages
-          ${{ if ne(matrix.os, 'windows-2022') }}~/.nuget/packages
+        path: ${{ github.workspace }}\.nuget\packages
         key: ${{ runner.os }}-nuget-${{ hashFiles('**/*.csproj', '**/*.sln') }}
         restore-keys: |
           ${{ runner.os }}-nuget-
