@@ -27,7 +27,7 @@ jobs:
       with:
         access_token: ${{ secrets.BITWARDEN_TOKEN }}
         secrets: |
-        3c8a49b0-1c41-4950-a6e1-b24301728d13 > DOTNET_VERSION
+          3c8a49b0-1c41-4950-a6e1-b24301728d13 > DOTNET_VERSION
 
     - name: Checkout code
       uses: actions/checkout@eef61447b9ff4aafe5dcd4e0bbf5d482be7e7871
